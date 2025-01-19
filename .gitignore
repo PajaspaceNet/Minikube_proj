@@ -1,0 +1,52 @@
+
+# Docker-compose override soubory
+docker-compose.override.yml
+
+# Docker cache
+*.stackdump
+
+# Python cache a dočasné soubory
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Virtuální prostředí
+env/
+venv/
+.venv/
+ENV/
+
+# Lokální nastavení
+*.local
+instance/
+
+.kube/
+minikube/
+
+# Obecné logy
+*.log
+
+# Editor soubory
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# OS-specifické
+.DS_Store
+Thumbs.db
+
+# Terraform nebo CloudFormation state files
+*.tfstate
+*.tfstate.backup
+
+# CI/CD soubory (GitHub Actions, Jenkins)
+.env
+*.key
+
+
+
+
