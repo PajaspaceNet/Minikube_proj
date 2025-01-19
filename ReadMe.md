@@ -1,9 +1,13 @@
 
-
 # Minikube/Flask
 
 Jednoduchá aplikace postavená na Flasku, která ukazuje základní funkčnost 
 Kubernetes nasazení pomocí Minikube.
+
+![vystup](https://github.com/user-attachments/assets/c460134a-9e90-417f-b7b6-89d44180bb12)
+
+Jeden moznych vystupu aplikace
+
 
 ---
 
